@@ -3,8 +3,7 @@
   "nickname": "199 📬 Etc 🔹Рождение с🔹3b51c724",
   "path": "199 📬 Etc Books/Рождение сложности (А. Марков).djvu",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "rozhdeni-3b51c724.jpg",
-  "Cover.name": "rozhdeni-3b51c724.jpg",
-  "cover_ratio": 0.671,
-  "title": "Рождение сложности (А. Марков).djvu"
+  "cover_ratio": 0.671
 }

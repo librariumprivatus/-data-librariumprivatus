@@ -3,8 +3,7 @@
   "nickname": "003 🪁 Comp🔹23 - Syste🔹Designing 🔹f376a58a",
   "path": "003 🪁 Computer Science/23 - System Design/Designing Data-Intensive Applications The Big Ideas Behind Reliable Scalable and Maintainable Systems (Martin Kleppmann).pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "designin-f376a58a.jpg",
-  "Cover.name": "designin-f376a58a.jpg",
-  "cover_ratio": 1.313,
-  "title": "Designing Data-Intensive Applications The Big Ideas Behind Reliable Scalable and Maintainable Systems (Martin Kleppmann).pdf"
+  "cover_ratio": 1.313
 }

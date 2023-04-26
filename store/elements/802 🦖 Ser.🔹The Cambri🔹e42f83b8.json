@@ -3,8 +3,7 @@
   "nickname": "802 🦖 Ser.🔹The Cambri🔹e42f83b8",
   "path": "802 🦖 Ser. Cambridge Companion/The Cambridge Companion to Berkeley.pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "the-camb-e42f83b8.jpg",
-  "Cover.name": "the-camb-e42f83b8.jpg",
-  "cover_ratio": 1.667,
-  "title": "The Cambridge Companion to Berkeley.pdf"
+  "cover_ratio": 1.667
 }

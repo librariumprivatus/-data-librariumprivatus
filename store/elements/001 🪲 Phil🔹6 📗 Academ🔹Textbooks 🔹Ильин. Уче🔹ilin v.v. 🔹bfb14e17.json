@@ -3,8 +3,7 @@
   "nickname": "001 🪲 Phil🔹6 📗 Academ🔹Textbooks 🔹Ильин. Уче🔹ilin v.v. 🔹bfb14e17",
   "path": "001 🪲 Philosophy/6 📗 Academic Books on Philosophy/Textbooks Russian 📗/Ильин. Учебник и материалы/ilin v.v. uchebnik.pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "ilin-v-v-bfb14e17.jpg",
-  "Cover.name": "ilin-v-v-bfb14e17.jpg",
-  "cover_ratio": 1.448,
-  "title": "ilin v.v. uchebnik.pdf"
+  "cover_ratio": 1.448
 }

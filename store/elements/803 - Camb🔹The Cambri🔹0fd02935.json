@@ -3,8 +3,7 @@
   "nickname": "803 - Camb🔹The Cambri🔹0fd02935",
   "path": "803 - Cambridge Histories - SER/The Cambridge Illust. by Francis RobinsonIr.pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "the-camb-0fd02935.jpg",
-  "Cover.name": "the-camb-0fd02935.jpg",
-  "cover_ratio": 1.442,
-  "title": "The Cambridge Illust. by Francis RobinsonIr.pdf"
+  "cover_ratio": 1.442
 }

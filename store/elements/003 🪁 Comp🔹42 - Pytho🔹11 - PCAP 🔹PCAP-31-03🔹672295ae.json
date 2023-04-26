@@ -3,8 +3,7 @@
   "nickname": "003 🪁 Comp🔹42 - Pytho🔹11 - PCAP 🔹PCAP-31-03🔹672295ae",
   "path": "003 🪁 Computer Science/42 - Python Lang/11 - PCAP - Certifications/PCAP-31-03 Practice Exam PCAP – Certified Associate in Python Programming Certification (Jeremias Lacanienta).pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "pcap-31--672295ae.jpg",
-  "Cover.name": "pcap-31--672295ae.jpg",
-  "cover_ratio": 1.294,
-  "title": "PCAP-31-03 Practice Exam PCAP – Certified Associate in Python Programming Certification (Jeremias Lacanienta).pdf"
+  "cover_ratio": 1.294
 }

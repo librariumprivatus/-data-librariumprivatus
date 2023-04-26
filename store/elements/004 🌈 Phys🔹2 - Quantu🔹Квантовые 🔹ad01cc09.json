@@ -3,8 +3,7 @@
   "nickname": "004 🌈 Phys🔹2 - Quantu🔹Квантовые 🔹ad01cc09",
   "path": "004 🌈 Physics/2 - Quantum Computing/Квантовые вычисления со времен Демокрита. (Скотт Ааронсон).pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "kvantovy-ad01cc09.jpg",
-  "Cover.name": "kvantovy-ad01cc09.jpg",
-  "cover_ratio": 1.414,
-  "title": "Квантовые вычисления со времен Демокрита. (Скотт Ааронсон).pdf"
+  "cover_ratio": 1.414
 }

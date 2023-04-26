@@ -3,8 +3,7 @@
   "nickname": "802 🦖 Ser.🔹The Cambri🔹fbe6f473",
   "path": "802 🦖 Ser. Cambridge Companion/The Cambridge Companion to Augustines. (1).pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "the-camb-fbe6f473.jpg",
-  "Cover.name": "the-camb-fbe6f473.jpg",
-  "cover_ratio": 1.5,
-  "title": "The Cambridge Companion to Augustines. (1).pdf"
+  "cover_ratio": 1.5
 }

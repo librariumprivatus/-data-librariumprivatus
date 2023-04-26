@@ -3,8 +3,7 @@
   "nickname": "802 🦖 Ser.🔹The Cambri🔹c1c1f3b9",
   "path": "802 🦖 Ser. Cambridge Companion/The Cambridge companion to Lockes Ess.pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "the-camb-c1c1f3b9.jpg",
-  "Cover.name": "the-camb-c1c1f3b9.jpg",
-  "cover_ratio": 1.5,
-  "title": "The Cambridge companion to Lockes Ess.pdf"
+  "cover_ratio": 1.5
 }

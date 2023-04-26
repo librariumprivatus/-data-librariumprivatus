@@ -3,8 +3,7 @@
   "nickname": "802 🦖 Ser.🔹The Cambri🔹bba5700a",
   "path": "802 🦖 Ser. Cambridge Companion/The Cambridge Compan. by Michael Maas.pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "the-camb-bba5700a.jpg",
-  "Cover.name": "the-camb-bba5700a.jpg",
-  "cover_ratio": 1.414,
-  "title": "The Cambridge Compan. by Michael Maas.pdf"
+  "cover_ratio": 1.414
 }

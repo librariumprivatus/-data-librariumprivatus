@@ -3,8 +3,7 @@
   "nickname": "010 🎏 Lang🔹5 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🔹1 🏛 Academ🔹Academic V🔹91024e18",
   "path": "010 🎏 Languages/5 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English/1 🏛 Academic English/Academic Vocabulary in Use Edition with Answers 2nd Edition (Michael McCarthy Felicity ODell).pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "academic-91024e18.jpg",
-  "Cover.name": "academic-91024e18.jpg",
-  "cover_ratio": 0.657,
-  "title": "Academic Vocabulary in Use Edition with Answers 2nd Edition (Michael McCarthy Felicity ODell).pdf"
+  "cover_ratio": 0.657
 }

@@ -3,8 +3,7 @@
   "nickname": "004 🌈 Phys🔹1 - Quantu🔹Introducti🔹6e3dfcaa",
   "path": "004 🌈 Physics/1 - Quantum Mechanics/Introduction to Quan. by David J. Griffiths.pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "introduc-6e3dfcaa.jpg",
-  "Cover.name": "introduc-6e3dfcaa.jpg",
-  "cover_ratio": 1.414,
-  "title": "Introduction to Quan. by David J. Griffiths.pdf"
+  "cover_ratio": 1.414
 }

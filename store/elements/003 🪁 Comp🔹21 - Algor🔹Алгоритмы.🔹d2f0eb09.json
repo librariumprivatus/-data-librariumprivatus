@@ -3,8 +3,7 @@
   "nickname": "003 🪁 Comp🔹21 - Algor🔹Алгоритмы.🔹d2f0eb09",
   "path": "003 🪁 Computer Science/21 - Algorithms & Data Structures/Алгоритмы. Построение и анализ (Томас Х. Кормен Чарльз И. Лейзерсон etc.).pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "algoritm-d2f0eb09.jpg",
-  "Cover.name": "algoritm-d2f0eb09.jpg",
-  "cover_ratio": 1.366,
-  "title": "Алгоритмы. Построение и анализ (Томас Х. Кормен Чарльз И. Лейзерсон etc.).pdf"
+  "cover_ratio": 1.366
 }

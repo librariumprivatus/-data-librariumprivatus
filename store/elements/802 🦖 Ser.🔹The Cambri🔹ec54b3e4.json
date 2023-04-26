@@ -3,8 +3,7 @@
   "nickname": "802 🦖 Ser.🔹The Cambri🔹ec54b3e4",
   "path": "802 🦖 Ser. Cambridge Companion/The Cambridge Compan. by Paul Guyer.pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "the-camb-ec54b3e4.jpg",
-  "Cover.name": "the-camb-ec54b3e4.jpg",
-  "cover_ratio": 1.456,
-  "title": "The Cambridge Compan. by Paul Guyer.pdf"
+  "cover_ratio": 1.456
 }

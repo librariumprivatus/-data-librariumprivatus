@@ -3,8 +3,7 @@
   "nickname": "701 🐫Pub. 🔹The Cambri🔹cd09e498",
   "path": "701 🐫Pub. Cambridge U.P_/The Cambridge History of Philosophy.pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "the-camb-cd09e498.jpg",
-  "Cover.name": "the-camb-cd09e498.jpg",
-  "cover_ratio": 1.415,
-  "title": "The Cambridge History of Philosophy.pdf"
+  "cover_ratio": 1.415
 }

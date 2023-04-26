@@ -3,8 +3,7 @@
   "nickname": "010 🎏 Lang🔹5 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🔹Oxford gui🔹e28dd30f",
   "path": "010 🎏 Languages/5 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English/Oxford guide to Engl. by John Eastwood.pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "oxford-g-e28dd30f.jpg",
-  "Cover.name": "oxford-g-e28dd30f.jpg",
-  "cover_ratio": 1.596,
-  "title": "Oxford guide to Engl. by John Eastwood.pdf"
+  "cover_ratio": 1.596
 }

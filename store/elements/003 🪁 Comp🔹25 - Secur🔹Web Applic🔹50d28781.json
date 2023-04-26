@@ -3,8 +3,7 @@
   "nickname": "003 🪁 Comp🔹25 - Secur🔹Web Applic🔹50d28781",
   "path": "003 🪁 Computer Science/25 - Security/Web Application Security Exploitation and Countermeasures for Modern Web Applications (Andrew Hoffman).pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "web-appl-50d28781.jpg",
-  "Cover.name": "web-appl-50d28781.jpg",
-  "cover_ratio": 1.313,
-  "title": "Web Application Security Exploitation and Countermeasures for Modern Web Applications (Andrew Hoffman).pdf"
+  "cover_ratio": 1.313
 }

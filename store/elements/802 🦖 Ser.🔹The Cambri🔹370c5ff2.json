@@ -3,8 +3,7 @@
   "nickname": "802 🦖 Ser.🔹The Cambri🔹370c5ff2",
   "path": "802 🦖 Ser. Cambridge Companion/The Cambridge Compan. by Peter Machamer.pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "the-camb-370c5ff2.jpg",
-  "Cover.name": "the-camb-370c5ff2.jpg",
-  "cover_ratio": 1.5,
-  "title": "The Cambridge Compan. by Peter Machamer.pdf"
+  "cover_ratio": 1.5
 }

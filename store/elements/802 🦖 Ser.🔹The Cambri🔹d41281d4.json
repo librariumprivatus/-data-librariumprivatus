@@ -3,8 +3,7 @@
   "nickname": "802 🦖 Ser.🔹The Cambri🔹d41281d4",
   "path": "802 🦖 Ser. Cambridge Companion/The Cambridge Compan. by David T. Gies.pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "the-camb-d41281d4.jpg",
-  "Cover.name": "the-camb-d41281d4.jpg",
-  "cover_ratio": 1.5,
-  "title": "The Cambridge Compan. by David T. Gies.pdf"
+  "cover_ratio": 1.5
 }

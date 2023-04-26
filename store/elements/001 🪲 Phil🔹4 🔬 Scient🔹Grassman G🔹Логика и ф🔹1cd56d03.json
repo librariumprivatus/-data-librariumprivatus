@@ -3,8 +3,7 @@
   "nickname": "001 🪲 Phil🔹4 🔬 Scient🔹Grassman G🔹Логика и ф🔹1cd56d03",
   "path": "001 🪲 Philosophy/4 🔬 Scientific Philosophy/Grassman G/Логика и философия математики. Избранное (Герман Грассман Роберт Грассман).pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "logika-i-1cd56d03.jpg",
-  "Cover.name": "logika-i-1cd56d03.jpg",
-  "cover_ratio": 1.31,
-  "title": "Логика и философия математики. Избранное (Герман Грассман Роберт Грассман).pdf"
+  "cover_ratio": 1.31
 }

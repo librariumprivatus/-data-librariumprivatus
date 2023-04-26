@@ -3,8 +3,7 @@
   "nickname": "010 🎏 Lang🔹3 🇻🇦 Latin🔹Rozental' 🔹01d4a6ff",
   "path": "010 🎏 Languages/3 🇻🇦 Latin/Rozental' I.S. Sokolov V.S. Uchebnik latinskogo jazyka (Norma 2004 2izd)(ru)(K)(600dpi)(ISBN 5891237466)(320s) L.djvu",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "rozental-01d4a6ff.jpg",
-  "Cover.name": "rozental-01d4a6ff.jpg",
-  "cover_ratio": 1.553,
-  "title": "Rozental' I.S. Sokolov V.S. Uchebnik latinskogo jazyka (Norma 2004 2izd)(ru)(K)(600dpi)(ISBN 5891237466)(320s) L.djvu"
+  "cover_ratio": 1.553
 }

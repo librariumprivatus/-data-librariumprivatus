@@ -3,8 +3,7 @@
   "nickname": "010 🎏 Lang🔹2 🇬🇷 Greek🔹greek-read🔹9bab4312",
   "path": "010 🎏 Languages/2 🇬🇷 Greek/greek-reader-ocr-2014.pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "greek-re-9bab4312.jpg",
-  "Cover.name": "greek-re-9bab4312.jpg",
-  "cover_ratio": 1.399,
-  "title": "greek-reader-ocr-2014.pdf"
+  "cover_ratio": 1.399
 }

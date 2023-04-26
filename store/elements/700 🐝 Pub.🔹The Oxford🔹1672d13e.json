@@ -3,8 +3,7 @@
   "nickname": "700 🐝 Pub.🔹The Oxford🔹1672d13e",
   "path": "700 🐝 Pub. Oxford UP/The Oxford Illustrated History of Medieval Europe (George Holmes).pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "the-oxfo-1672d13e.jpg",
-  "Cover.name": "the-oxfo-1672d13e.jpg",
-  "cover_ratio": 1.282,
-  "title": "The Oxford Illustrated History of Medieval Europe (George Holmes).pdf"
+  "cover_ratio": 1.282
 }

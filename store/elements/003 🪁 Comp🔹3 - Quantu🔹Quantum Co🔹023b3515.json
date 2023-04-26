@@ -3,8 +3,7 @@
   "nickname": "003 🪁 Comp🔹3 - Quantu🔹Quantum Co🔹023b3515",
   "path": "003 🪁 Computer Science/3 - Quantum CS/Quantum Computer Sci. by N. David Mermin.pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "quantum--023b3515.jpg",
-  "Cover.name": "quantum--023b3515.jpg",
-  "cover_ratio": 1.43,
-  "title": "Quantum Computer Sci. by N. David Mermin.pdf"
+  "cover_ratio": 1.43
 }

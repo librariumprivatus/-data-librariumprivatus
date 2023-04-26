@@ -3,8 +3,7 @@
   "nickname": "003 🪁 Comp🔹21 - Algor🔹Алгоритмы.🔹1af2d315",
   "path": "003 🪁 Computer Science/21 - Algorithms & Data Structures/Алгоритмы. Руководство по разработке (Скиена Стивен).pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "algoritm-1af2d315.jpg",
-  "Cover.name": "algoritm-1af2d315.jpg",
-  "cover_ratio": 1.466,
-  "title": "Алгоритмы. Руководство по разработке (Скиена Стивен).pdf"
+  "cover_ratio": 1.466
 }

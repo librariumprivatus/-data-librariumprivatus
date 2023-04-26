@@ -3,8 +3,7 @@
   "nickname": "802 🦖 Ser.🔹The Cambri🔹630a3d08",
   "path": "802 🦖 Ser. Cambridge Companion/The Cambridge Companion to William Ja.pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "the-camb-630a3d08.jpg",
-  "Cover.name": "the-camb-630a3d08.jpg",
-  "cover_ratio": 1.5,
-  "title": "The Cambridge Companion to William Ja.pdf"
+  "cover_ratio": 1.5
 }

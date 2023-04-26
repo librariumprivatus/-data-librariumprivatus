@@ -3,8 +3,7 @@
   "nickname": "802 🦖 Ser.🔹The Cambri🔹7bd2cf47",
   "path": "802 🦖 Ser. Cambridge Companion/The Cambridge Compan. by Evgeny DobrenkoMar.pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "the-camb-7bd2cf47.jpg",
-  "Cover.name": "the-camb-7bd2cf47.jpg",
-  "cover_ratio": 1.5,
-  "title": "The Cambridge Compan. by Evgeny DobrenkoMar.pdf"
+  "cover_ratio": 1.5
 }

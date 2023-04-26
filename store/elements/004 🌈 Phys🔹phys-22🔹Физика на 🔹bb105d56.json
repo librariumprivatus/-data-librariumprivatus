@@ -3,8 +3,7 @@
   "nickname": "004 🌈 Phys🔹phys-22🔹Физика на 🔹bb105d56",
   "path": "004 🌈 Physics/phys-22/Физика на ладони. Об устройстве Вселенной – просто и понятно (Венсан Бокео).pdf",
   "home": "../data/biblioteka-main",
+  "type": "file",
   "cover": "fizika-n-bb105d56.jpg",
-  "Cover.name": "fizika-n-bb105d56.jpg",
-  "cover_ratio": 1.414,
-  "title": "Физика на ладони. Об устройстве Вселенной – просто и понятно (Венсан Бокео).pdf"
+  "cover_ratio": 1.414
 }
